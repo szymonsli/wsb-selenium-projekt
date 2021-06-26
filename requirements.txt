@@ -1,0 +1,4 @@
+selenium==3.141.0
+flake8==3.9.1
+pytest==6.2.3
+python-dotenv==0.17.1
